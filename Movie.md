@@ -1,6 +1,6 @@
 #EXTM3U
 
-#====================      Movie 307HD   =====================#
+#====================      Movie HD   =====================#
 
 #EXTINF:-1 group-title="ระทึกขวัญ" tvg-logo="https://i.imgur.com/ftNbzVD.jpg",Songbird (2020) โควิด 23 ไวรัสล้างโลก
 https://masterhl.one3up.com/view/9b1725e4-c7fe-5294-8c83-cfb104d1644f.m3u8
